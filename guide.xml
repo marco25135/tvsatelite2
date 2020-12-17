@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="AMC FHD">
+    <display-name lang="pt">AMC FHD</display-name>
+    <icon src="https://www.lineup.tv.br/canais/1582410271.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="AMC HD">
+    <display-name lang="pt">AMC HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="AMC SD">
+    <display-name lang="pt">AMC SD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Animal Planet (4K)">
+    <display-name lang="pt">Animal Planet (4K)</display-name>
+    <icon src="https://www.lineup.tv.br/canais/araucaria.gif|https://www.lineup.tv.br/canais/cultura.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Animal Planet FHD">
+    <display-name lang="pt">Animal Planet FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Animal Planet HD">
+    <display-name lang="pt">Animal Planet HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Animal Planet SD">
+    <display-name lang="pt">Animal Planet SD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+</tv>
